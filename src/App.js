@@ -1,9 +1,9 @@
 
 import './App.css';
 import CssModule from './components/CssModule';
-import Faq from './components/Faq';
+// import Faq from './components/Faq';
 import StyledComponent from './components/StyledComponent';
-import UseMemoEx from './components/UseMemoEx1';
+// import UseMemoEx from './components/UseMemoEx1';
 
 function App() {
   return (
